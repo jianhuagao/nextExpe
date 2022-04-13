@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
 
-const Home = memo(() => {
+const Home = memo(function home() {
   return <div>Home</div>;
 });
 
