@@ -2,7 +2,7 @@ export default function Index() {
   return (
     <div className="flex h-screen items-center justify-center dark:bg-[#111827] dark:text-white">
       <div>
-        <div className="text-center text-4xl font-extrabold sm:text-5xl lg:text-6xl">
+        <div className="text-center text-4xl font-extra bold sm:text-5xl lg:text-6xl">
           <a href="https://nextjs.org/">nextJs</a>
           <span className="mx-3">&</span>
           <a href="https://tailwindcss.com/" className="underline decoration-sky-500">
